@@ -1,0 +1,1 @@
+            print(f"이름: {student[0]}, 국어: {student[1]}, 영어: {student[2]}, 수학: {student[3]}")
